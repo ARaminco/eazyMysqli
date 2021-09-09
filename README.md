@@ -1,1 +1,1 @@
-# mysqli_simple_database_wrapper
+# eazyMysql - simple database wrapper
